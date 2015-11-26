@@ -1,0 +1,453 @@
+#EXTM3U
+#EXTINF:0,2CH Easy 1170 (Sydney) - Mono
+http://radio1.internode.on.net:8000/230
+#EXTINF:0,2Day FM (Sydney) - 32k
+http://radio1.internode.on.net:8000/194
+#EXTINF:0,2GB 873 Sydney talk radio - Mono
+http://radio1.internode.on.net:8000/236
+#EXTINF:0,2GO 101.7FM Central Coast NSW
+http://radio1.internode.on.net:8000/261
+#EXTINF:0,2UE News Talk Sydney (internode)
+http://radio1.internode.on.net:8000/250
+#EXTINF:0,2UE News Talk Sydney (iiNet)
+mms://mms.iinet.net.au/2ue
+#EXTINF:0,3AW News Talk Melbourne (internode)
+http://radio1.internode.on.net:8000/251
+#EXTINF:0,3AW News Talk Melbourne (iiNet)
+mms://mms.iinet.net.au/3AW
+#EXTINF:0,3CR Community Radio Melbourne (High)
+http://public-radio1.internode.on.net:8002/60
+#EXTINF:0,3CR Community Radio Melbourne (Low)
+http://public-radio1.internode.on.net:8002/61
+#EXTINF:0,3KND 1503AM Melbourne indegenous radio (High)
+http://public-radio1.internode.on.net:8002/75
+#EXTINF:0,3KND 1503AM Melbourne indegenous radio (Low)
+http://public-radio1.internode.on.net:8002/76
+#EXTINF:0,4BC News Talk Brisbane
+http://radio1.internode.on.net:8000/252
+#EXTINF:0,4BH Easy Listening Brisbane
+http://radio1.internode.on.net:8000/253
+#EXTINF:0,5AA (Adelaide)
+http://radio1.internode.on.net:8000/151
+#EXTINF:0,6IX Good Times and Great Music (Perth)
+http://radio1.internode.on.net:8000/249
+#EXTINF:0,6PR News Talk Perth (internode)
+http://radio1.internode.on.net:8000/254
+#EXTINF:0,6PR News Talk Perth (iiNet)
+http://radio1.internode.on.net:8000/254
+#EXTINF:0,6SEN - Seniors Radio - The Golden Years Of Radio (Perth) - 40k (iiNet Oldies)
+mms://mms.iinet.net.au/radio_seniors
+#EXTINF:0,92.9 - Perth's Hit Music Station
+http://radio1.internode.on.net:8000/231
+#EXTINF:0,96FM Keep Real Music Alive (Perth)
+http://radio1.internode.on.net:8000/255
+#EXTINF:0,Territory FM
+http://radio1.internode.on.net:8000/107
+#EXTINF:0,.977 The 80s Channel
+http://radio1.internode.on.net:8000/4
+#EXTINF:0,.977 The 90s Channel
+http://radio1.internode.on.net:8000/198
+#EXTINF:0,.977 The Alternative Channel - Modern Rock with an Edge
+http://radio1.internode.on.net:8000/268
+#EXTINF:0,.977 The Classic Rock Channel - 60s 70s & 80s
+http://radio1.internode.on.net:8000/269
+#EXTINF:0,.977 The Hitz Channel - 70s 80s 90s and Today
+http://radio1.internode.on.net:8000/24
+#EXTINF:0,.977 The Jamz Channel - RnB, Hip Hop, Urban
+http://radio1.internode.on.net:8000/270
+#EXTINF:0,.977 The Mix Channel - 80s 90s and Today
+http://radio1.internode.on.net:8000/240
+#EXTINF:0,91.7 ABC Coast FM
+http://radio1.internode.on.net:8000/166
+#EXTINF:0,105.7 ABC Darwin
+http://radio1.internode.on.net:8000/160
+#EXTINF:0,612 ABC Brisbane
+http://radio1.internode.on.net:8000/158
+#EXTINF:0,666 ABC Canberra
+http://radio1.internode.on.net:8000/159
+#EXTINF:0,702 ABC Sydney
+http://radio1.internode.on.net:8000/165
+#EXTINF:0,720 ABC Perth
+http://radio1.internode.on.net:8000/164
+#EXTINF:0,774 ABC Melbourne
+http://radio1.internode.on.net:8000/162
+#EXTINF:0,891 ABC Adelaide
+http://radio1.internode.on.net:8000/157
+#EXTINF:0,936 ABC Hobart
+http://radio1.internode.on.net:8000/161
+#EXTINF:0,1233 ABC Newcastle
+http://radio1.internode.on.net:8000/163
+#EXTINF:0,ABC Classic FM
+http://radio1.internode.on.net:8000/131
+#EXTINF:0,ABC Country
+http://radio1.internode.on.net:8000/133
+#EXTINF:0,ABC Dig Jazz
+http://radio1.internode.on.net:8000/154
+#EXTINF:0,ABC Dig Music
+http://radio1.internode.on.net:8000/132
+#EXTINF:0,ABC Grandstand
+http://radio1.internode.on.net:8000/171
+#EXTINF:0,ABC News Radio
+http://radio1.internode.on.net:8000/155
+#EXTINF:0,ABC Radio Extra
+http://radio1.internode.on.net:8000/167
+#EXTINF:0,ABC Radio National
+http://radio1.internode.on.net:8000/156
+#EXTINF:0,Special ABC Radio Stream One
+http://radio1.internode.on.net:8000/168
+#EXTINF:0,Special ABC Radio Stream Three
+http://radio1.internode.on.net:8000/170
+#EXTINF:0,Special ABC Radio Stream Two
+http://radio1.internode.on.net:8000/169
+#EXTINF:0,Absolute Classic Rock
+http://radio1.internode.on.net:8000/18
+#EXTINF:0,Absolute Radio
+http://radio1.internode.on.net:8000/19
+#EXTINF:0,Afterhours.FM
+http://radio1.internode.on.net:8000/188
+#EXTINF:0,Always Country
+http://radio1.internode.on.net:8000/130
+#EXTINF:0,ArtSound FM Canberra
+http://radio1.internode.on.net:8000/265
+#EXTINF:0,B105 (Brisbane)
+http://radio1.internode.on.net:8000/196
+#EXTINF:0,Bassdrive - 24/7 Drum and Bass Jungle Radio
+http://radio1.internode.on.net:8000/17
+#EXTINF:0,BBC World Service - English - 32k mono (internode)
+http://radio1.internode.on.net:8000/237
+#EXTINF:0,BBC World Service - English - 32k stereo (iiNet)
+mms://mms.iiNet.net.au/bbcworld
+#EXTINF:0,BellyUp4Blues
+http://radio1.internode.on.net:8000/197
+#EXTINF:0,Blues - JAZZRADIO.com
+http://radio1.internode.on.net:8000/142
+#EXTINF:0,Cafe Cody
+http://radio1.internode.on.net:8000/116
+#EXTINF:0,ChroniX Aggression
+http://radio1.internode.on.net:8000/15
+#EXTINF:0,ChroniX Grit
+http://radio1.internode.on.net:8000/102
+#EXTINF:0,ChroniX Metal Masters
+http://radio1.internode.on.net:8000/173
+#EXTINF:0,ChroniX Metal
+http://radio1.internode.on.net:8000/103
+#EXTINF:0,Coast FM 97.3 Mandura WA
+http://radio1.internode.on.net:8000/238
+#EXTINF:0,Digitally Imported: Ambient
+http://radio1.internode.on.net:8000/53
+#EXTINF:0,Digitally Imported: Breaks
+http://radio1.internode.on.net:8000/55
+#EXTINF:0,Digitally Imported: Chillout Dreams
+http://radio1.internode.on.net:8000/118
+#EXTINF:0,Digitally Imported: Chillout
+http://radio1.internode.on.net:8000/35
+#EXTINF:0,Digitally Imported: Chiptunes
+http://radio1.internode.on.net:8000/184
+#EXTINF:0,Digitally Imported: Classic Electronica
+http://radio1.internode.on.net:8000/33
+#EXTINF:0,Digitally Imported: Classic Eurodance
+http://radio1.internode.on.net:8000/119
+#EXTINF:0,Digitally Imported: Classic Trance
+http://radio1.internode.on.net:8000/136
+#EXTINF:0,Digitally Imported: Club Sounds
+http://radio1.internode.on.net:8000/120
+#EXTINF:0,Digitally Imported: Deep House
+http://radio1.internode.on.net:8000/29
+#EXTINF:0,Digitally Imported: Disco House
+http://radio1.internode.on.net:8000/260
+#EXTINF:0,Digitally Imported: DJ Mixes
+http://radio1.internode.on.net:8000/36
+#EXTINF:0,Digitally Imported: Drum 'n' Bass
+http://radio1.internode.on.net:8000/31
+#EXTINF:0,Digitally Imported: Dubstep
+http://radio1.internode.on.net:8000/135
+#EXTINF:0,Digitally Imported: Electro House
+http://radio1.internode.on.net:8000/108
+#EXTINF:0,Digitally Imported: Euro Dance
+http://radio1.internode.on.net:8000/27
+#EXTINF:0,Digitally Imported: Funky House
+http://radio1.internode.on.net:8000/122
+#EXTINF:0,Digitally Imported: Future Synthpop
+http://radio1.internode.on.net:8000/101
+#EXTINF:0,Digitally Imported: Glitch Hop
+http://radio1.internode.on.net:8000/262
+#EXTINF:0,Digitally Imported: Goa-Psy Trance
+http://radio1.internode.on.net:8000/30
+#EXTINF:0,Digitally Imported: Hard Dance
+http://radio1.internode.on.net:8000/28
+#EXTINF:0,Digitally Imported: Hardcore
+http://radio1.internode.on.net:8000/32
+#EXTINF:0,Digitally Imported: Hardstyle
+http://radio1.internode.on.net:8000/110
+#EXTINF:0,Digitally Imported: House
+http://radio1.internode.on.net:8000/257
+#EXTINF:0,Digitally Imported: Liquid Drum and Bass
+http://radio1.internode.on.net:8000/11
+#EXTINF:0,Digitally Imported: Lounge
+http://radio1.internode.on.net:8000/54
+#EXTINF:0,Digitally Imported: Minimal
+http://radio1.internode.on.net:8000/109
+#EXTINF:0,Digitally Imported: Progressive
+http://radio1.internode.on.net:8000/37
+#EXTINF:0,Digitally Imported: PsyChil
+http://radio1.internode.on.net:8000/139
+#EXTINF:0,Digitally Imported: Soulful House
+http://radio1.internode.on.net:8000/86
+#EXTINF:0,Digitally Imported: Space Dreams
+http://radio1.internode.on.net:8000/124
+#EXTINF:0,Digitally Imported: Tech House
+http://radio1.internode.on.net:8000/125
+#EXTINF:0,Digitally Imported: Techno
+http://radio1.internode.on.net:8000/80
+#EXTINF:0,Digitally Imported: Trance
+http://radio1.internode.on.net:8000/26
+#EXTINF:0,Digitally Imported: Tribal House
+http://radio1.internode.on.net:8000/126
+#EXTINF:0,Digitally Imported: Vocal Trance
+http://radio1.internode.on.net:8000/34
+#EXTINF:0,Dogglounge - Deep House Radio
+http://radio1.internode.on.net:8000/202
+#EXTINF:0,Dubstep.FM
+http://radio1.internode.on.net:8000/203
+#EXTINF:0,ETN.fm: House
+http://radio1.internode.on.net:8000/204
+#EXTINF:0,ETN.fm: Trance livesets & DJ shows
+http://radio1.internode.on.net:8000/16
+#EXTINF:0,EYE97 Hits (70s 80s 90s and today)
+http://radio1.internode.on.net:8000/14
+#EXTINF:0,EYE97 - Non Stop Dance and Club Mix
+http://radio1.internode.on.net:8000/65
+#EXTINF:0,EYE97 - The 80's Music Channel
+http://radio1.internode.on.net:8000/174
+#EXTINF:0,Flava (NZ)
+http://radio1.internode.on.net:8000/232
+#EXTINF:0,Fox FM 101.9 (Melbourne)
+http://radio1.internode.on.net:8000/205
+#EXTINF:0,GremlinRadio.com - The Best In Breaks And More!
+http://radio1.internode.on.net:8000/206
+#EXTINF:0,Happy Hardcore
+http://radio1.internode.on.net:8000/239
+#EXTINF:0,Hardcore Radio
+http://radio1.internode.on.net:8000/186
+#EXTINF:0,Hitz 247
+http://radio1.internode.on.net:8000/193
+#EXTINF:0,Idobi - Alternative music network
+http://radio1.internode.on.net:8000/207
+#EXTINF:0,Joy 94.9 FM Melbourne Gay & Lesbian Community Radio (High)
+http://public-radio1.internode.on.net:8002/62
+#EXTINF:0,Joy 94.9 FM Melbourne Gay & Lesbian Community Radio (Low)
+http://public-radio1.internode.on.net:8002/63
+#EXTINF:0,KCEA-FM
+http://radio1.internode.on.net:8000/10
+#EXTINF:0,Koffee
+http://radio1.internode.on.net:8000/144
+#EXTINF:0,Life FM 107.9 Spirit of the City - Adelaide (High)
+http://public-radio1.internode.on.net:8002/21
+#EXTINF:0,Life FM 107.9 Spirit of the City - Adelaide (Low)
+http://public-radio1.internode.on.net:8002/22
+#EXTINF:0,Magic1278 easy listening Melbourne (internode)
+http://radio1.internode.on.net:8000/256
+#EXTINF:0,Magic1278 easy listening Melbourne (iiNet)
+mms://mms.iinet.net.au/Magic1278
+#EXTINF:0,Megarock Radio
+http://radio1.internode.on.net:8000/172
+#EXTINF:0,Mix 94.5 (Perth)
+http://radio1.internode.on.net:8000/209
+#EXTINF:0,Music One
+http://radio1.internode.on.net:8000/113
+#EXTINF:0,Net Game Radio
+http://radio1.internode.on.net:8000/25
+#EXTINF:0,New Orleans Radio
+http://radio1.internode.on.net:8000/181
+#EXTINF:0,NewsTalk ZB (NZ)
+http://radio1.internode.on.net:8000/234
+#EXTINF:0,Nova 91.9 (Adelaide)
+http://radio1.internode.on.net:8000/150
+#EXTINF:0,Nova 93.7 (Perth)
+http://radio1.internode.on.net:8000/152
+#EXTINF:0,Nova 96.9 (Sydney)
+http://radio1.internode.on.net:8000/146
+#EXTINF:0,Nova 100 (Melbourne)
+http://radio1.internode.on.net:8000/148
+#EXTINF:0,Nova 106.9 (Brisbane)
+http://radio1.internode.on.net:8000/145
+#EXTINF:0,NovaNation
+http://radio1.internode.on.net:8000/143
+#EXTINF:0,NSB Radio - Breaks & Beats Radio
+http://radio1.internode.on.net:8000/242
+#EXTINF:0,Plusfm.net - eclectic electronic radio
+http://radio1.internode.on.net:8000/212
+#EXTINF:0,Radio ENA Greek Radio Adelaide (High Bandwidth)
+http://public-radio1.internode.on.net:8002/51
+#EXTINF:0,Radio ENA Greek Radio Adelaide (Low Bandwidth)
+http://public-radio1.internode.on.net:8002/52
+#EXTINF:0,Radio Italiana (Adelaide)
+http://public-radio1.internode.on.net:8002/93
+#EXTINF:0,Radio Paradise
+http://radio1.internode.on.net:8000/2
+#EXTINF:0,Radio Skipper - The Best Oldies & Classic of 70s 80s & 90s (internode)
+http://radio1.internode.on.net:8000/213
+#EXTINF:0,Radio Sport (NZ)
+http://radio1.internode.on.net:8000/243
+#EXTINF:0,Radio Tabla - Indian mixed world music (mono)
+http://radio1.internode.on.net:8000/182
+#EXTINF:0,Radio Wazee - Modern alternative rock
+http://radio1.internode.on.net:8000/3
+#EXTINF:0,RantRadio: Industrial
+http://radio1.internode.on.net:8000/47
+#EXTINF:0,RantRadio: Punk
+http://radio1.internode.on.net:8000/46
+#EXTINF:0,RantRadio: Talk
+http://radio1.internode.on.net:8000/48
+#EXTINF:0,Rautemusik.fm - German station playing english hits
+http://radio1.internode.on.net:8000/211
+#EXTINF:0,Raw FM
+http://radio1.internode.on.net:8000/175
+#EXTINF:0,RTR fm - The Sound Alternative (Perth)
+http://radio1.internode.on.net:8000/235
+#EXTINF:0,SA FM (Adelaide)
+http://radio1.internode.on.net:8000/215
+#EXTINF:0,Sky.FM - A Beatles Tribute
+http://radio1.internode.on.net:8000/112
+#EXTINF:0,Sky.FM - Absolutely Smooth Jazz
+http://radio1.internode.on.net:8000/44
+#EXTINF:0,Sky.FM - All Hit 70s
+http://radio1.internode.on.net:8000/43
+#EXTINF:0,Sky.FM - Alternative Rock
+http://radio1.internode.on.net:8000/89
+#EXTINF:0,Sky.FM - Amazing Jazz Classics
+http://radio1.internode.on.net:8000/39
+#EXTINF:0,Sky.FM - American Songbook
+http://radio1.internode.on.net:8000/140
+#EXTINF:0,Sky.FM - Bebop Jazz
+http://radio1.internode.on.net:8000/127
+#EXTINF:0,Sky.FM - Best of the 80s
+http://radio1.internode.on.net:8000/42
+#EXTINF:0,Sky.FM - Bossa Nova
+http://radio1.internode.on.net:8000/97
+#EXTINF:0,Sky.FM - Classic Rap
+http://radio1.internode.on.net:8000/69
+#EXTINF:0,Sky.FM - Classic Rock
+http://radio1.internode.on.net:8000/87
+#EXTINF:0,Sky.FM - Classical & Flamenco Guitar
+http://radio1.internode.on.net:8000/57
+#EXTINF:0,Sky.FM - Classical Piano Trios
+http://radio1.internode.on.net:8000/141
+#EXTINF:0,Sky.FM - Contemporary Christian
+http://radio1.internode.on.net:8000/100
+#EXTINF:0,Sky.FM - Country
+http://radio1.internode.on.net:8000/59
+#EXTINF:0,Sky.FM - Datempo Lounge
+http://radio1.internode.on.net:8000/88
+#EXTINF:0,Sky.FM - Indie Rock
+http://radio1.internode.on.net:8000/82
+#EXTINF:0,Sky.FM - Love Music
+http://radio1.internode.on.net:8000/111
+#EXTINF:0,Sky.FM - Mostly Classical
+http://radio1.internode.on.net:8000/38
+#EXTINF:0,Sky.FM - New Age
+http://radio1.internode.on.net:8000/41
+#EXTINF:0,Sky.FM - Oldies - 256k (50s, 60s & 70s Hits)
+http://radio1.internode.on.net:8000/66
+#EXTINF:0,Sky.FM - Piano Jazz
+http://radio1.internode.on.net:8000/98
+#EXTINF:0,Sky.FM - Piano Solos
+http://radio1.internode.on.net:8000/9
+#EXTINF:0,Sky.FM - Pop Rocks
+http://radio1.internode.on.net:8000/263
+#EXTINF:0,Sky.FM - Roots Reggae
+http://radio1.internode.on.net:8000/58
+#EXTINF:0,Sky.FM - Salsa
+http://radio1.internode.on.net:8000/40
+#EXTINF:0,Sky.FM - Simply Soundtracks
+http://radio1.internode.on.net:8000/99
+#EXTINF:0,Sky.FM - Ska
+http://radio1.internode.on.net:8000/191
+#EXTINF:0,Sky.FM - Soft Rock
+http://radio1.internode.on.net:8000/233
+#EXTINF:0,Sky.FM - Top Hits Music
+http://radio1.internode.on.net:8000/45
+#EXTINF:0,Sky.FM - Uptempo Smooth Jazz
+http://radio1.internode.on.net:8000/81
+#EXTINF:0,Sky.FM - Urban Jamz
+http://radio1.internode.on.net:8000/68
+#EXTINF:0,Sky.FM - Vocal New Age
+http://radio1.internode.on.net:8000/216
+#EXTINF:0,Sky.FM - World Music
+http://radio1.internode.on.net:8000/67
+#EXTINF:0,Smooth 91.5 (Melbourne)
+http://radio1.internode.on.net:8000/149
+#EXTINF:0,Smooth 95.3 (Sydney)
+http://radio1.internode.on.net:8000/147
+#EXTINF:0,Smooth Lounge
+http://radio1.internode.on.net:8000/217
+#EXTINF:0,SmoothJazz.com
+http://radio1.internode.on.net:8000/218
+#EXTINF:0,Snack Trax Radio - Contemporary Mix 80s - Today
+http://public-radio1.internode.on.net:8002/267
+#EXTINF:0,SomaFM BAGeL radio (alternative)
+http://radio1.internode.on.net:8000/264
+#EXTINF:0,SomaFM Beat Blender
+http://radio1.internode.on.net:8000/7
+#EXTINF:0,SomaFM Christmas Lounge
+http://radio1.internode.on.net:8000/12
+#EXTINF:0,SomaFM Christmas Rocks!
+http://radio1.internode.on.net:8000/248
+#EXTINF:0,SomaFM Christmas Xmas in Frisco
+http://radio1.internode.on.net:8000/13
+#EXTINF:0,SomaFM Cover Me
+http://radio1.internode.on.net:8000/244
+#EXTINF:0,SomaFM Doomed
+http://radio1.internode.on.net:8000/77
+#EXTINF:0,SomaFM Drone Zone
+http://radio1.internode.on.net:8000/247
+#EXTINF:0,SomaFM Groove Salad
+http://radio1.internode.on.net:8000/6
+#EXTINF:0,SomaFM Illinois Street Lounge
+http://radio1.internode.on.net:8000/219
+#EXTINF:0,SomaFM Indie Pop Rocks!
+http://radio1.internode.on.net:8000/23
+#EXTINF:0,SomaFM Lush
+http://radio1.internode.on.net:8000/176
+#EXTINF:0,SomaFM Mission Control
+http://radio1.internode.on.net:8000/129
+#EXTINF:0,SomaFM Secret Agent
+http://radio1.internode.on.net:8000/220
+#EXTINF:0,SomaFM Suburbs of Goa
+http://radio1.internode.on.net:8000/222
+#EXTINF:0,SomaFM Underground 80's
+http://radio1.internode.on.net:8000/20
+#EXTINF:0,Star 104.5 (Central Coast NSW)
+http://radio1.internode.on.net:8000/153
+#EXTINF:0,Starpoint Soul
+http://radio1.internode.on.net:8000/223
+#EXTINF:0,SwissGroove
+http://radio1.internode.on.net:8000/8
+#EXTINF:0,Switch.FM
+http://radio1.internode.on.net:8000/79
+#EXTINF:0,Tank FM 103.1 Kempsey NSW (High Bandwidth)
+http://public-radio1.internode.on.net:8002/128
+#EXTINF:0,Tank FM 103.1 Kempsey NSW (Low Bandwidth)
+http://public-radio1.internode.on.net:8002/190
+#EXTINF:0,Three D Radio - Adelaide Community Radio
+http://public-radio1.internode.on.net:8002/137
+#EXTINF:0,Triple J (Australia)
+http://radio1.internode.on.net:8000/117
+#EXTINF:0,Triple J Unearthed (Australia)
+http://radio1.internode.on.net:8000/183
+#EXTINF:0,Triple M - Adelaide 104.7
+http://radio1.internode.on.net:8000/225
+#EXTINF:0,Triple M - Brisbane 104.5
+http://radio1.internode.on.net:8000/226
+#EXTINF:0,Triple M - Melbourne 105.1
+http://radio1.internode.on.net:8000/227
+#EXTINF:0,Triple M - Sydney 104.9
+http://radio1.internode.on.net:8000/228
+#EXTINF:0,Triple R FM - Melbourne Independent Radio
+http://public-radio1.internode.on.net:8002/114
+#EXTINF:0,WGLT Blues Radio 24/7
+http://radio1.internode.on.net:8000/178
+#EXTINF:0,WSFM 101.7 (Sydney)
+http://radio1.internode.on.net:8000/245
+#EXTINF:0,ZM Online (NZ)
+http://radio1.internode.on.net:8000/229

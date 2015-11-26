@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="songs">
+    <name>Alternative</name>
+    <match>all</match>
+    <rule field="genre" operator="contains">
+        <value>Alt</value>
+    </rule>
+    <order direction="ascending">random</order>
+</smartplaylist>

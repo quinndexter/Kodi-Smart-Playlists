@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="tvshows">
+    <name>TVDoco</name>
+    <match>one</match>
+    <rule field="genre" operator="contains">
+        <value>Document</value>
+    </rule>
+    <rule field="genre" operator="contains">
+        <value>Doco</value>
+    </rule>
+</smartplaylist>
